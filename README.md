@@ -1,4 +1,4 @@
-Huffman Source Coding Digital Communicator
+#Huffman Source Coding Digital Communicator.
 
 A simple Python project that demonstrates Huffman source coding along with TCP socket communication between a transmitter and receiver.
 
