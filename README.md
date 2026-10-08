@@ -14,7 +14,7 @@ Python 3.x
 No external libraries required
 How to Run
 python filename.py
-
+    
 
 Choose one of the following modes:
 
